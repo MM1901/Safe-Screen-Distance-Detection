@@ -18,5 +18,9 @@
 
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/#programmatic
 
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml (OpenCV haarcascades file)
+
+https://docs.opencv.org/4.x/df/d6c/tutorial_js_face_detection_camera.html (OpenCV documentation for face detection)
+
 ### Project Proposal Presentation 
 https://docs.google.com/presentation/d/1LE6-_18w0pTD2-HSeKQyGohceDyNkR9ghi07xZhlWTc/edit?usp=sharing
